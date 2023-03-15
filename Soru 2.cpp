@@ -1,7 +1,7 @@
  #include <stdio.h>
 #include <stdlib.h>
 
-
+// Kodun  yürütme zamanı: O(n) 'dir 
  
  int main()
 {
@@ -14,7 +14,7 @@
      
     int dizi[eleman];
      
-    for( i = 0; i < eleman; i++)
+    for( i = 0; i < eleman; i++)  
     {
         printf("Dizinin %d. degerini giriniz: ",i+1);
         scanf("%d",&dizi[i]);
