@@ -27,7 +27,7 @@ int main() {
         cin >> ogrenciler[i].adres;
     }
     
-    // Kaydedilen öğrenci bilgilerini ekrana yazdırma
+    // Kaydedilen Ã¶Ã°renci bilgilerini ekrana yazdÃ½rma
     for (int i = 0; i < 5; i++) {
         cout << "Ad: " << ogrenciler[i].ad << endl;
         cout << "Soyad: " << ogrenciler[i].soyad << endl;
@@ -37,3 +37,4 @@ int main() {
     
     return 0;
 }
+//
